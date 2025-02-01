@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDados3", "TiposDeDad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDados4", "TiposDeDados4\TiposDeDados4.csproj", "{8B754E11-AD90-44DC-A287-568651BA5E55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDateTime1", "TipoDateTime1\TipoDateTime1.csproj", "{D4722430-9C98-4967-A955-97FFFFB48124}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8B754E11-AD90-44DC-A287-568651BA5E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B754E11-AD90-44DC-A287-568651BA5E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B754E11-AD90-44DC-A287-568651BA5E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4722430-9C98-4967-A955-97FFFFB48124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4722430-9C98-4967-A955-97FFFFB48124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4722430-9C98-4967-A955-97FFFFB48124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4722430-9C98-4967-A955-97FFFFB48124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
