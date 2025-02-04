@@ -1,7 +1,7 @@
 ﻿Console.WriteLine("## Instrução if ##\n");
 
 Console.Write("Cliente Especial (S/N)\t");
-var resposta = Console.ReadLine();
+var resposta = Console.ReadLine().ToUpper();
 
 if (resposta == "S")
 {
