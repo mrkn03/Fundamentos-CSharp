@@ -10,5 +10,3 @@ string? nome = null;
 // o operador null conditional operador(?.)
 // impede o erro NullReferenceException
 Console.WriteLine(nome?.ToUpper());
-
-Console.ReadKey();
