@@ -33,7 +33,7 @@ public class Carro
         this.potencia = potencia;
     }
 
-    public void Acelerar(string marca)
+    public void Acelerar(string? marca)
     {
         Console.WriteLine($"Acelerando o meu {marca}");
     }
