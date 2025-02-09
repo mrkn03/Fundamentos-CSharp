@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Exercicio", "01.Exercici
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosComRetorno", "MetodosComRetorno\MetodosComRetorno.csproj", "{C06F6B31-6A07-4650-B55B-4961B9CCF858}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Exercicio", "02.Exercicio\02.Exercicio.csproj", "{EDC0FFC7-F860-4160-AC88-926228B15D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobercargaDeMetodos", "SobercargaDeMetodos\SobercargaDeMetodos.csproj", "{C5260232-6D00-43AF-9080-7FE11AC00595}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{C06F6B31-6A07-4650-B55B-4961B9CCF858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C06F6B31-6A07-4650-B55B-4961B9CCF858}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C06F6B31-6A07-4650-B55B-4961B9CCF858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC0FFC7-F860-4160-AC88-926228B15D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC0FFC7-F860-4160-AC88-926228B15D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC0FFC7-F860-4160-AC88-926228B15D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC0FFC7-F860-4160-AC88-926228B15D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5260232-6D00-43AF-9080-7FE11AC00595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5260232-6D00-43AF-9080-7FE11AC00595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5260232-6D00-43AF-9080-7FE11AC00595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5260232-6D00-43AF-9080-7FE11AC00595}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
