@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ModificadoresDeAcesso
 {
-    internal class MinhaStruct
+    internal struct MinhaStruct
     {
         int MeuCampo;
 

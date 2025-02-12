@@ -1,8 +1,4 @@
-﻿
-
-
-
-enum Categorias
+﻿enum Categorias
 {
     Moda,
     Automotivo,

@@ -1,5 +1,4 @@
-﻿Console.WriteLine("\nUsando argumentos nomeados e parâmetros opcionais \n");
-
+﻿
 Console.WriteLine("Sem informar o parâmetro opcional Ano");
 
 Carro ford = new Carro();
@@ -10,7 +9,7 @@ Marca: ford.marca, Potencia: ford.potencia);
 Console.WriteLine("\nInformando o parâmetro opcional Ano");
 
 ford.ExibirInfo(Modelo: ford.modelo, Montadora: ford.montadora,
-Marca: ford.marca, Potencia: ford.potencia, Ano: ford.ano);
+Marca: ford.marca, Potencia: ford.potencia, Ano: ford.Ano);
 
 
 Console.WriteLine("Chamando o método estático ObterValorIPVA : ");

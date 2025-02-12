@@ -1,10 +1,4 @@
-﻿
-
-
-
-
-
-enum DiasDaSemana
+﻿enum DiasDaSemana
 {
     Segunda = 10,
     Terça = 12,

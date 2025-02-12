@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace _09.Exercicio
 {
-    internal class Cores
+    enum Cores
     {
+        Branco = 1,
+        Vermelho,
+        Preto,
+        Cinza,
+        Prata,
+        Azul
     }
 }

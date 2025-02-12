@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ModificadoresDeAcesso
 {
-    internal class MinhaEnum
+    internal enum MinhaEnum
     {
+        opcao1,
+        opcao2
     }
 }
