@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio - List", "Exercic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexadores", "Indexadores\Indexadores.csproj", "{09E7DA6D-8056-4171-A541-19D43F101FA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe Random", "Classe Random\Classe Random.csproj", "{BBA9B790-097C-48D5-B83F-C2C1B1E1781A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{09E7DA6D-8056-4171-A541-19D43F101FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09E7DA6D-8056-4171-A541-19D43F101FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09E7DA6D-8056-4171-A541-19D43F101FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA9B790-097C-48D5-B83F-C2C1B1E1781A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA9B790-097C-48D5-B83F-C2C1B1E1781A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA9B790-097C-48D5-B83F-C2C1B1E1781A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA9B790-097C-48D5-B83F-C2C1B1E1781A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
