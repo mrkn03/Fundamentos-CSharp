@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35806.99 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{C973351F-DD90-43F6-9C2F-B82221E38FB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca - Conceito e Sintaxe", "Heranca - Conceito e Sintaxe\Heranca - Conceito e Sintaxe.csproj", "{B0323EB2-0491-4824-8829-C5C15333049E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca - Comportamentos", "Heranca - Comportamentos\Heranca - Comportamentos.csproj", "{53904897-8D56-40A0-A44F-91DAF5E0AB44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca - Construtores", "Heranca - Construtores\Heranca - Construtores.csproj", "{F879AD68-9A27-4E81-B33B-56DD807F19F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C973351F-DD90-43F6-9C2F-B82221E38FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C973351F-DD90-43F6-9C2F-B82221E38FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C973351F-DD90-43F6-9C2F-B82221E38FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C973351F-DD90-43F6-9C2F-B82221E38FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0323EB2-0491-4824-8829-C5C15333049E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0323EB2-0491-4824-8829-C5C15333049E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0323EB2-0491-4824-8829-C5C15333049E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0323EB2-0491-4824-8829-C5C15333049E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53904897-8D56-40A0-A44F-91DAF5E0AB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53904897-8D56-40A0-A44F-91DAF5E0AB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53904897-8D56-40A0-A44F-91DAF5E0AB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53904897-8D56-40A0-A44F-91DAF5E0AB44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F879AD68-9A27-4E81-B33B-56DD807F19F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F879AD68-9A27-4E81-B33B-56DD807F19F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F879AD68-9A27-4E81-B33B-56DD807F19F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F879AD68-9A27-4E81-B33B-56DD807F19F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
