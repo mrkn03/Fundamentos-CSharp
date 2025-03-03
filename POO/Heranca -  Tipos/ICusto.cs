@@ -8,5 +8,6 @@ namespace Heranca____Tipos
 {
     interface ICusto
     {
+        int GetCusto(int area);
     }
 }

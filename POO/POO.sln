@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35806.99 d17.13
+VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca - Conceito e Sintaxe", "Heranca - Conceito e Sintaxe\Heranca - Conceito e Sintaxe.csproj", "{B0323EB2-0491-4824-8829-C5C15333049E}"
 EndProject
@@ -18,6 +18,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modificador Sealed", "Modificador Sealed\Modificador Sealed.csproj", "{E2785C17-26F1-49C2-ABE9-12E84E2AD1D3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio - Heranca", "Exercicio - Heranca\Exercicio - Heranca.csproj", "{D0A97ECA-9D5A-4DFE-9102-5D3F1D469E95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca -  Tipos", "Heranca -  Tipos\Heranca -  Tipos.csproj", "{320CCCF1-6084-406C-8754-1FC1F130813A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca - Downcasting e Upcasting", "Heranca - Downcasting e Upcasting\Heranca - Downcasting e Upcasting.csproj", "{BF85878E-9A53-41D7-9966-663EB3A0120C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{D0A97ECA-9D5A-4DFE-9102-5D3F1D469E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0A97ECA-9D5A-4DFE-9102-5D3F1D469E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0A97ECA-9D5A-4DFE-9102-5D3F1D469E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{320CCCF1-6084-406C-8754-1FC1F130813A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320CCCF1-6084-406C-8754-1FC1F130813A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320CCCF1-6084-406C-8754-1FC1F130813A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320CCCF1-6084-406C-8754-1FC1F130813A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF85878E-9A53-41D7-9966-663EB3A0120C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF85878E-9A53-41D7-9966-663EB3A0120C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF85878E-9A53-41D7-9966-663EB3A0120C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF85878E-9A53-41D7-9966-663EB3A0120C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
