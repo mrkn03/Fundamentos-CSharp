@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca -  Tipos", "Heranca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca - Downcasting e Upcasting", "Heranca - Downcasting e Upcasting\Heranca - Downcasting e Upcasting.csproj", "{BF85878E-9A53-41D7-9966-663EB3A0120C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores  - is e as", "Operadores  - is e as\Operadores  - is e as.csproj", "{444D9442-D144-4A0F-B541-763903E0616E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{BF85878E-9A53-41D7-9966-663EB3A0120C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF85878E-9A53-41D7-9966-663EB3A0120C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF85878E-9A53-41D7-9966-663EB3A0120C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444D9442-D144-4A0F-B541-763903E0616E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444D9442-D144-4A0F-B541-763903E0616E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444D9442-D144-4A0F-B541-763903E0616E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444D9442-D144-4A0F-B541-763903E0616E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
