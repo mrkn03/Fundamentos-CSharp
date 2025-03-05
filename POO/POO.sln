@@ -25,6 +25,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca - Downcasting e Upc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores  - is e as", "Operadores  - is e as\Operadores  - is e as.csproj", "{444D9442-D144-4A0F-B541-763903E0616E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe Abstrata", "Classe Abstrata\Classe Abstrata.csproj", "{FF6DC323-936E-4A2F-8AD5-05D57ADCC269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{4B5A9DD1-3935-4461-8F2D-8428CBDBD0BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio - Interface", "Exercicio - Interface\Exercicio - Interface.csproj", "{510956CB-E482-4873-9A42-273C3061982C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agregacao", "Agregacao\Agregacao.csproj", "{4CA859AD-0BB5-4A13-88DB-6D66CE03DD14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo - Agregacao e Composicao", "Exemplo - Agregacao e Composicao\Exemplo - Agregacao e Composicao.csproj", "{2A0F8D52-2993-42BF-AD24-C3130989F7BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +85,26 @@ Global
 		{444D9442-D144-4A0F-B541-763903E0616E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{444D9442-D144-4A0F-B541-763903E0616E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{444D9442-D144-4A0F-B541-763903E0616E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6DC323-936E-4A2F-8AD5-05D57ADCC269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6DC323-936E-4A2F-8AD5-05D57ADCC269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6DC323-936E-4A2F-8AD5-05D57ADCC269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6DC323-936E-4A2F-8AD5-05D57ADCC269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5A9DD1-3935-4461-8F2D-8428CBDBD0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5A9DD1-3935-4461-8F2D-8428CBDBD0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5A9DD1-3935-4461-8F2D-8428CBDBD0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5A9DD1-3935-4461-8F2D-8428CBDBD0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510956CB-E482-4873-9A42-273C3061982C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510956CB-E482-4873-9A42-273C3061982C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510956CB-E482-4873-9A42-273C3061982C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510956CB-E482-4873-9A42-273C3061982C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA859AD-0BB5-4A13-88DB-6D66CE03DD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA859AD-0BB5-4A13-88DB-6D66CE03DD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA859AD-0BB5-4A13-88DB-6D66CE03DD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA859AD-0BB5-4A13-88DB-6D66CE03DD14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0F8D52-2993-42BF-AD24-C3130989F7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0F8D52-2993-42BF-AD24-C3130989F7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0F8D52-2993-42BF-AD24-C3130989F7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0F8D52-2993-42BF-AD24-C3130989F7BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
