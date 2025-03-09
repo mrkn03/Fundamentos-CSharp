@@ -22,6 +22,7 @@ public class Pessoa
 {
     public int CPF { get; set; }
     public string? Nome { get; set; }
+
     public Pessoa(int cpf, string? nome)
     {
         CPF = cpf;
