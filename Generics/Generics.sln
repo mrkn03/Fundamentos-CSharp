@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary - Exemplo", "Dic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedDictionary", "SortedDictionary\SortedDictionary.csproj", "{C818AE91-E3A2-4A3F-A708-37C963094CA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecoes Set", "Colecoes Set\Colecoes Set.csproj", "{861DBFE3-CA7F-468F-9ADB-62283A715685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecoes Set - HashSet", "Colecoes Set - HashSet\Colecoes Set - HashSet.csproj", "{D0A653EF-5829-4067-9A88-D8C01EA13F21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{C818AE91-E3A2-4A3F-A708-37C963094CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C818AE91-E3A2-4A3F-A708-37C963094CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C818AE91-E3A2-4A3F-A708-37C963094CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861DBFE3-CA7F-468F-9ADB-62283A715685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861DBFE3-CA7F-468F-9ADB-62283A715685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861DBFE3-CA7F-468F-9ADB-62283A715685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861DBFE3-CA7F-468F-9ADB-62283A715685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A653EF-5829-4067-9A88-D8C01EA13F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A653EF-5829-4067-9A88-D8C01EA13F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A653EF-5829-4067-9A88-D8C01EA13F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A653EF-5829-4067-9A88-D8C01EA13F21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
