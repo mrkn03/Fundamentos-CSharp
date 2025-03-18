@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloco TryCatchFinally", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lancamento de Excecoes - throw", "..\Lancamento de Excecoes - throw\Lancamento de Excecoes - throw.csproj", "{4CD9A3E5-1948-4874-B81B-EB52E4184CF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filtros de excecao", "..\Filtros de excecao\Filtros de excecao.csproj", "{DC444FA2-8639-4780-8B23-EF2E1DEE0431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tratamento de excecoes - Exemplo", "..\Tratamento de excecoes - Exemplo\Tratamento de excecoes - Exemplo.csproj", "{1A2FD658-5D3B-49C6-A7E2-40806FC70370}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4CD9A3E5-1948-4874-B81B-EB52E4184CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CD9A3E5-1948-4874-B81B-EB52E4184CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CD9A3E5-1948-4874-B81B-EB52E4184CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC444FA2-8639-4780-8B23-EF2E1DEE0431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC444FA2-8639-4780-8B23-EF2E1DEE0431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC444FA2-8639-4780-8B23-EF2E1DEE0431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC444FA2-8639-4780-8B23-EF2E1DEE0431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2FD658-5D3B-49C6-A7E2-40806FC70370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2FD658-5D3B-49C6-A7E2-40806FC70370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2FD658-5D3B-49C6-A7E2-40806FC70370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2FD658-5D3B-49C6-A7E2-40806FC70370}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
