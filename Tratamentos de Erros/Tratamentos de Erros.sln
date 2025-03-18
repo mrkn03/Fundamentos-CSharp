@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filtros de excecao", "..\Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tratamento de excecoes - Exemplo", "..\Tratamento de excecoes - Exemplo\Tratamento de excecoes - Exemplo.csproj", "{1A2FD658-5D3B-49C6-A7E2-40806FC70370}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excecoes Personalizadas", "..\Excecoes Personalizadas\Excecoes Personalizadas.csproj", "{B2DBE173-38EB-4F80-81CD-BC8CA5459B1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1A2FD658-5D3B-49C6-A7E2-40806FC70370}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A2FD658-5D3B-49C6-A7E2-40806FC70370}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A2FD658-5D3B-49C6-A7E2-40806FC70370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DBE173-38EB-4F80-81CD-BC8CA5459B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DBE173-38EB-4F80-81CD-BC8CA5459B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DBE173-38EB-4F80-81CD-BC8CA5459B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DBE173-38EB-4F80-81CD-BC8CA5459B1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
