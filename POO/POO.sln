@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agregacao", "Agregacao\Agre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo - Agregacao e Composicao", "Exemplo - Agregacao e Composicao\Exemplo - Agregacao e Composicao.csproj", "{2A0F8D52-2993-42BF-AD24-C3130989F7BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo - Polimorfismo Tempo de Execucao", "Exemplo - Polimorfismo\Exemplo - Polimorfismo Tempo de Execucao.csproj", "{A8F11981-C23B-4451-8517-E2D53B00215D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo - Polimorfismo Tempo de Compilacao", "Exemplo - Polimorfismo Tempo de Compilacao\Exemplo - Polimorfismo Tempo de Compilacao.csproj", "{31AF31A6-7FC2-43AC-929E-0958E4540B56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{2A0F8D52-2993-42BF-AD24-C3130989F7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A0F8D52-2993-42BF-AD24-C3130989F7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A0F8D52-2993-42BF-AD24-C3130989F7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F11981-C23B-4451-8517-E2D53B00215D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F11981-C23B-4451-8517-E2D53B00215D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F11981-C23B-4451-8517-E2D53B00215D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F11981-C23B-4451-8517-E2D53B00215D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31AF31A6-7FC2-43AC-929E-0958E4540B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AF31A6-7FC2-43AC-929E-0958E4540B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AF31A6-7FC2-43AC-929E-0958E4540B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AF31A6-7FC2-43AC-929E-0958E4540B56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
