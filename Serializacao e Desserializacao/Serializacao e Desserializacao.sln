@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deserializacao XML", "..\De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializacao JSON", "..\Serializacao JSON\Serializacao JSON.csproj", "{764BF38E-2AEE-400D-AF2C-3F421223DF1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desserializacao JSON", "..\Desserializacao JSON\Desserializacao JSON.csproj", "{0CC225B0-6A8A-4D1E-8F1D-AA878F4BED4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{764BF38E-2AEE-400D-AF2C-3F421223DF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{764BF38E-2AEE-400D-AF2C-3F421223DF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{764BF38E-2AEE-400D-AF2C-3F421223DF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC225B0-6A8A-4D1E-8F1D-AA878F4BED4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC225B0-6A8A-4D1E-8F1D-AA878F4BED4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC225B0-6A8A-4D1E-8F1D-AA878F4BED4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC225B0-6A8A-4D1E-8F1D-AA878F4BED4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
