@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programacao Assincrona", "Programacao Assincrona.csproj", "{33E1F8BB-35C5-4533-8CF0-DA7325453633}"
 EndProject
@@ -12,6 +12,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTask T", "..\ValueTask T\ValueTask T.csproj", "{87D0853A-935A-47F7-8092-65E26AF2BD9C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cancelamento de Tarefas", "..\Cancelamento de Tarefas\Cancelamento de Tarefas.csproj", "{6395576F-EA18-4B6C-A5DF-550F973EDC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tratamento de Excecoes", "..\Tratamento de Excecoes\Tratamento de Excecoes.csproj", "{E7689A86-FEC7-40A9-BD40-B91BDEE826B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplas Excecoes", "..\Tratamento de Excecoes II\Multiplas Excecoes.csproj", "{C296EC95-2FFB-4C02-931F-63127CFA2D3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{6395576F-EA18-4B6C-A5DF-550F973EDC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6395576F-EA18-4B6C-A5DF-550F973EDC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6395576F-EA18-4B6C-A5DF-550F973EDC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7689A86-FEC7-40A9-BD40-B91BDEE826B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7689A86-FEC7-40A9-BD40-B91BDEE826B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7689A86-FEC7-40A9-BD40-B91BDEE826B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7689A86-FEC7-40A9-BD40-B91BDEE826B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C296EC95-2FFB-4C02-931F-63127CFA2D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C296EC95-2FFB-4C02-931F-63127CFA2D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C296EC95-2FFB-4C02-931F-63127CFA2D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C296EC95-2FFB-4C02-931F-63127CFA2D3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
