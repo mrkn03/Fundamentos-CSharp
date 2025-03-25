@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tratamento de Excecoes", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplas Excecoes", "..\Tratamento de Excecoes II\Multiplas Excecoes.csproj", "{C296EC95-2FFB-4C02-931F-63127CFA2D3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streams Assincronos", "..\Streams Assincronos\Streams Assincronos.csproj", "{AD6152AE-4C10-4844-8D34-1B53395ED718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlando Threads com Semafotos", "..\Controlando Threads com Semafotos\Controlando Threads com Semafotos.csproj", "{63402668-597A-4544-930B-264FD7D23869}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{C296EC95-2FFB-4C02-931F-63127CFA2D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C296EC95-2FFB-4C02-931F-63127CFA2D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C296EC95-2FFB-4C02-931F-63127CFA2D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6152AE-4C10-4844-8D34-1B53395ED718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6152AE-4C10-4844-8D34-1B53395ED718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6152AE-4C10-4844-8D34-1B53395ED718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6152AE-4C10-4844-8D34-1B53395ED718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63402668-597A-4544-930B-264FD7D23869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63402668-597A-4544-930B-264FD7D23869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63402668-597A-4544-930B-264FD7D23869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63402668-597A-4544-930B-264FD7D23869}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
